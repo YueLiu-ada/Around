@@ -37,7 +37,7 @@ const (
 	DISTANCE    = "200km"
 	INDEX       = "around"
 	TYPE        = "post"
-	ES_URL      = "http://35.193.187.225:9200"
+	ES_URL      = "http://35.188.66.187:9200"
 	BUCKET_NAME = "post-images-276618"
 	API_PREFIX  = "/api/v1"
 )
